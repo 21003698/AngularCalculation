@@ -45,7 +45,7 @@ Publish the website in the given URL.
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: Sandeep challa
+            Developed by: challa sandeep
         </div>
     </div>
 </body>
